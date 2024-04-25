@@ -21,6 +21,8 @@ metadata:
     argocd/app-name: test-fullyfeatured-go-backend-argo-1
     backstage.io/kubernetes-id: test-fullyfeatured-go-backend-argo-1
     github.com/workflows: docker-image.yml
+    github.com/project-slug: Kheops-org/test-fullyfeatured-go-backend-argo-1
+    github.com/team-slug: sreez
 spec:
   type: api
   system: system:default/examples
