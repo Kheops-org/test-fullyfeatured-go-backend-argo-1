@@ -9,7 +9,7 @@ image:
   repository: registry.nationtech.io/test-fullyfeatured-go-backend-argo-1
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 20240425-144437
+  tag: 20240425-145444
 
 imagePullSecrets:
 - name: nationtech-registry-key
